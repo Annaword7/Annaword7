@@ -12,6 +12,6 @@
 
 - My python + SQL project [here](https://github.com/Annaword7/sql_project)
 - A/B TEST. Making a decision about rolling out a new feature. [here](https://github.com/Annaword7/Study_projects-A-B-test/tree/main)
-- Outliers in the data? How to correctly evaluate the results of A/B test [here](https://github.com/Annaword7/Study_projects-A-B-tests-diff/tree/main
+- Outliers in the data? How to correctly evaluate the results of A/B test [here](https://github.com/Annaword7/Study_projects-A-B-tests-diff/tree/main)
 - E-commerce project: Product manager Vasily asked you to analyze your purchases and answer [here](https://github.com/Annaword7/Study_projects-e-commerce)
 - Just for fun magic_the_gathering game analys [here](https://github.com/Annaword7/magic_the_gathering)
