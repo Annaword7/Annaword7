@@ -5,9 +5,11 @@
 - ❤️ SELECT * FROM My_life 
 - 🔭 Prudent and pragmatic. A kind of happiness metric for everyone in the family.
 
+  
+
   🌊🌊🌊🏄
 
-- This site was built using [GitHub Pages](https://pages.github.com/).
+
 - My python + SQL project [here](https://github.com/Annaword7/sql_project)
 - A/B TEST. Making a decision about rolling out a new feature. [here](https://github.com/Annaword7/Study_projects-A-B-test/tree/main)
 - Outliers in the data? How to correctly evaluate the results of A/B test [here](https://github.com/Annaword7/Study_projects-A-B-tests-diff/tree/main
