@@ -5,7 +5,7 @@
 - ❤️ SELECT * FROM My_life 
 - 🔭 Prudent and pragmatic. A kind of happiness metric for everyone in the family.
 
-### lifelong learning / my certificates [here](https://github.com/Annaword7/certificates/tree/main) 🥇 
+### lifelong learning | my certificates [here](https://github.com/Annaword7/certificates/tree/main) 🥇 
 
   🌊🌊🌊🏄
 
